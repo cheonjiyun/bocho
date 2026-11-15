@@ -13,7 +13,7 @@
 ## APK 파일 위치
 
 ```
-apk/보초_보초운전_release.apk
+apk/보초_보초_release.apk
 ```
 
 ## 실행 방법
@@ -23,7 +23,7 @@ apk/보초_보초운전_release.apk
 1. Pleos Connect 에뮬레이터를 실행합니다.
 2. APK를 설치합니다.
    ```bash
-   adb install -r apk/보초_보초운전_release.apk
+   adb install -r apk/보초_보초_release.apk
    ```
 3. 하단 앱 목록에서 **Bocho**를 실행합니다.
 
